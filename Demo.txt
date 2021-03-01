@@ -1,2 +1,3 @@
 Today is Monday.
 Tommorrow is Tuesday. 
+Tuesday is followed by Wednesday.
